@@ -1,0 +1,4 @@
+/code/results/
+
+*.out
+*__pycache__*
